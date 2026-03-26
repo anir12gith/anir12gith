@@ -9,11 +9,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About Me :<br><br> I'm Anir From Morroco</h3>
 
 ###
 
-<p align="left">I'm anir from morroco<br><br>- 📚 I'm currently learning : network&cybersec<br>- ⚡ I continue learning in my free time</p>
+<p align="left">- 📚 I'm currently learning : network&cybersec<br>- ⚡ I continue learning in my free time</p>
 
 ###
 
@@ -36,7 +36,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGtyaHdrbzM0djQ3OGU2dXo2enRlZnhmamR3ZmFwNXZpZHptNHVqaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"  />
 </div>
 
 ###
@@ -44,18 +44,3 @@
 <h3 align="left">🔥   My Stats :<br>I’m a 17-year-old developer who started learning programming at 16. My core skills are Python, C, C++, SQL, and Bash. I’m currently focused on cybersecurity and networking, learning packet analysis and understanding data flow within systems, while applying practical experiments to grasp protocols and device behaviors. My goal is to become a cybersecurity professional, work on real projects, and dive deeper into network analysis, attacks, and system protection</h3>
 
 ###
-
-<!--
-**anir12gith/anir12gith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
